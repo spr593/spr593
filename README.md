@@ -1,4 +1,4 @@
-### ~ Within the dynamic evolution of software, I believe that the art of identifying starting points in real-world code is key to uncovering the roots behind latent security threats and engineering AI-based security solutions. ~
+### ~ Within the dynamic evolution of software, I believe that the art of identifying starting points in real-world code is key to uncovering the roots behind latent security threats and engineering AI-based security solutions.
 
 <!--
 Github metrics for displaying metrics on development profile
